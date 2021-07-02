@@ -1,2 +1,2 @@
 # tp_oc
-Travaux pratiques (cours html / css) OPENCLASSROOMS
+Travaux pratiques (cours html / css / js) OPENCLASSROOMS
